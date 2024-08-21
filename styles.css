@@ -1,0 +1,40 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    font-style: italic;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 75px;
+    background-color: black;
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+}
+
+h2 {
+    font-weight: bold;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+    font-size: 32px;
+    font-style: normal;
+}
+
+p {
+    font-size: 28px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:500px;
+    width:500px;
+}
+
+.body.index {
+    text-align: center;
+}
+
+body {
+    margin-bottom: 100px;
+}
